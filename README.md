@@ -1,7 +1,7 @@
 # Deadlock_detection
 Chandy-Misra-Haas deadlock detection algorithm for AND model.  
-Name:Jayashree G math Bits 
-ID:2017Ht12477  
+Name:Jayashree G math 
+Bits ID:2017Ht12477  
 This program is implemented using C language 
 
 ---------------------- 
